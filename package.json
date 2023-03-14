@@ -1,0 +1,23 @@
+{
+  "name": "comet-craft",
+  "version": "1.0.2",
+  "description": "Comet loves Craft",
+  "main": "./index.js",
+  "bin": {
+    "comet-craft": "./index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+  
+  },
+  "author": "Alexandre Victoor",
+  "license": "BSD",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+   
+  }
+}
