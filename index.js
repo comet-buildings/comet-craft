@@ -21,7 +21,7 @@ console.log("Vendredi Mob et Extreme programming : REX d'une développeuse junio
 
 
 
-console.log('   /   \_____   _______  ____  __');
-console.log('  / /\ / _ \ \ / / _ \ \/ /\ \/ /');
-console.log(' / /_//  __/\ V / (_) >  <  >  < ');
-console.log("/___,' \___| \_/ \___/_/\_\/_/\_\.")
+console.log('   /   \\_____   _______  ____  __');
+console.log('  / /\\ / _ \\ \\ / / _ \\ \\/ /\ \\/ /');
+console.log(' / /_//  __/\\ V / (_) >  <  >  < ');
+console.log("/___,' \\___| \\_/ \\___/_/\\_\\/_/\\_\\")
