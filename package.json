@@ -9,15 +9,10 @@
   "files": [
     "dist"
   ],
-  "scripts": {
-  
-  },
+  "scripts": {},
   "author": "Alexandre Victoor",
   "license": "BSD",
-  "devDependencies": {
-    
-  },
   "dependencies": {
-   
+    "chalk": "^4.1.2"
   }
 }
