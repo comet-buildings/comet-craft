@@ -1,6 +1,6 @@
 {
   "name": "comet-craft",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Comet loves Craft",
   "main": "./index.js",
   "bin": {
