@@ -20,5 +20,5 @@ https://cfp.devoxx.fr/2023/talk/TUD-2583/Mob_et_Extreme_programming_:_REX_d%E2%8
 - LinkedIn https://www.linkedin.com/company/cometmeetings/mycompany/
 - Twitter https://twitter.com/cometmeetings
 
-## site internet
+## Site internet
 https://www.comet-meetings.com/
